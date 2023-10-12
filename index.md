@@ -10,7 +10,7 @@ Direct speech-to-speech translation (S2ST) translates speech from one language i
 
 Audio samples are available at <a href="https://ictnlp.github.io/daspeech-demo/"><i>https://ictnlp.github.io/daspeech-demo/</i></a>.
 
-Paper：<a href="https://arxiv.org/abs/2310.07403">https://arxiv.org/abs/2310.07403<i></i></a>.
+Paper：<a href="https://arxiv.org/abs/2310.07403"><i>https://arxiv.org/abs/2310.07403</i></a>.
 
 Code：<a href="https://github.com/ictnlp/DASpeech"><i>https://github.com/ictnlp/DASpeech</i></a>.
 
